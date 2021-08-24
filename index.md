@@ -1,4 +1,4 @@
-## Welcome to Evan Ynag's Blog
+## Welcome to Evan Yang's Blog
 
 Evan's daily notebook
 
